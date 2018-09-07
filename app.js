@@ -15,7 +15,7 @@ app.use(favicon(__dirname + '/public/img/glyph.png'));
 
 // FIREBASE CONFIG
 var config = {
-	apiKey: "AIzaSyCufIc48jvfrtzuichCuQ1TkrfWaF_jzs8",
+	apiKey: "AIzaSyCuc48jvfrtzuichCuQ1TkrfWaF_j8",
 	authDomain: "fcc-hack.firebaseapp.com",
 	databaseURL: "https://fcc-hack.firebaseio.com/",
 	projectId: "fcc-hack",
